@@ -106,7 +106,8 @@ The project includes analysis of:
 - Profit by Discount Level
 - Orders by Discount Level
 
-## 📊 Dashboard
+##  Dashboard
+![Sales Performance Dashboard](dashboard.png)
 
 The interactive Excel dashboard contains:
 
